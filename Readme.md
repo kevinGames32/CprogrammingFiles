@@ -1,0 +1,1 @@
+This is the start of the C programming class repository, first ever commit at 2025-08-27, done from windows linux subsystem.
