@@ -12,14 +12,14 @@
 
 
 CC = gcc
-CFLAGS = -std=c17 -Wall -Wextra -Werror -pedantic -g -O0
+CFLAGS = -std=c99 -Wall -Wextra -Werror -pedantic -g -O0
 
 
 # Project settings - MODIFY THESE FOR YOUR PROJECT
 
 
-TARGET = myApp
-SOURCES = HelloWorld.c
+TARGET = fuel_station
+SOURCES = fuel_station.c
 HEADERS = 
 
 
